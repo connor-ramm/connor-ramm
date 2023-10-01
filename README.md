@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @connor-ramm
+- 👋 Hi, I’m Connor
 - 👀 I’m interested in personal coding development with APIs, Python, and Java to enhance computer vision and AI/ML development
 - 🌱 I’m currently learning JSON, Python, Java, TensorFlow, Pytorch, and other various development tools
 - 💞️ I’m looking to collaborate on anything related to computer vision or AI/ML work
